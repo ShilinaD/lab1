@@ -1,0 +1,5 @@
+C:/Users/shili/OneDrive/Рабочий стол/ООП 3 сем/lab1-1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/shili/OneDrive/Рабочий стол/ООП 3 сем/lab1-1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shili/OneDrive/Рабочий стол/ООП 3 сем/lab1-1/out/build/x64-debug/lab1-1/CMakeFiles/lab1-1.dir
+C:/Users/shili/OneDrive/Рабочий стол/ООП 3 сем/lab1-1/out/build/x64-debug/lab1-1/CMakeFiles/edit_cache.dir
+C:/Users/shili/OneDrive/Рабочий стол/ООП 3 сем/lab1-1/out/build/x64-debug/lab1-1/CMakeFiles/rebuild_cache.dir
